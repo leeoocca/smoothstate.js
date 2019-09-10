@@ -25,7 +25,7 @@ exclude:
 defaults:
   -
     scope:
-      path: "blog.html"
+      path: ""
       type: "posts"
     values:
       layout: "default"
