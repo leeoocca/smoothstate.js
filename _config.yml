@@ -8,6 +8,10 @@ paginate: 5
 navigation:
   - url: /index.html
     title: Home
+  - url: /now.html
+    title: Now
+  - url: /blog.html
+    title: Blog
   - url: /contact.html
     title: Contact
 disqus_shortname:
